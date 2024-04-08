@@ -184,3 +184,5 @@ Here is a list of Osintgram's contributors:
 ## External library 🔗
 
 [Instagram API](https://github.com/ping/instagram_private_api)
+
+[Installation](src/instagram_private_api/#README.md)
